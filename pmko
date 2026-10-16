@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="th"> 
+<head> 
+  <meta  charset="utf-8"> 
+  <meta  name="viewport"  content="width=device-width,  Initial-scale=1"> 
+  <title>เว็บไซต์ของฉัน</title>
+</head>
+<body>
+  <h1>สวัสดี ยินดีต้อนรับ!</h1>
+  <p>นี่คือเว็บไซต์แรกของฉัน</p>
+</body>
+</html>
